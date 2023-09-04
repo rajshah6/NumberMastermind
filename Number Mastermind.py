@@ -1,8 +1,10 @@
 '''
 Name: Raj Shah
-Desciption: This is a GUI based program using tkinter that is programmed to be
+Description: This is a GUI-based program using tkinter that is programmed to be
 a random guessing game where the user tries to guess the number. See
-'How to Play' when program is running for more details.
+'How to Play' when the program is running for more details.
+
+It is recommended to run the program on light-mode to view the text easier
 
 '''
 
